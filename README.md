@@ -2,8 +2,8 @@ namespace NandanRay;
 
 class About extends Me
 {
-		public function getCurrentWorkplace(): array
-    {
+	public function getCurrentWorkplace(): array
+	{
 	return [
 		'workplace' => [
 		'company' => 'Haystack_Analytics',
