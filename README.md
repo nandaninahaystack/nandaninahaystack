@@ -4,10 +4,10 @@ class About extends Me
 {
 		public function getCurrentWorkplace(): array
     {
-				return [
-            'workplace' => [
-                'company' => 'Haystack_Analytics',
-                'position' => 'DevOps_Trainee'         
+	return [
+		'workplace' => [
+		'company' => 'Haystack_Analytics',
+		'position' => 'DevOps_Trainee'         
             ]
         ];
     }
