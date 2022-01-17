@@ -1,12 +1,10 @@
-<?php
-
 namespace NandanRay;
 
 class About extends Me
 {
-    public function getCurrentWorkplace(): array
+		public function getCurrentWorkplace(): array
     {
-        return [
+				return [
             'workplace' => [
                 'company' => 'Haystack_Analytics',
                 'position' => 'DevOps_Trainee'         
